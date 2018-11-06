@@ -1,6 +1,6 @@
-var api = 'http://grubmine.justminers.com/:1117'
+var api = 'http://grubmine.justminers.com/:8117'
 
-var api_blockexplorer = 'http://daemonhost.com/:1118'
+var api_blockexplorer = 'http://daemonhost.com/:8499'
 
 var poolHost = 'http://poolhost.com'
 
