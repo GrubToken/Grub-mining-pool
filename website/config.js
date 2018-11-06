@@ -1,4 +1,4 @@
-var api = 'http://192.99.206.62/GrubMine/:8117'
+var api = 'http://192.99.206.62/GrubMine:8117'
 
 var api_blockexplorer = 'http://daemonhost.com/:8499'
 
