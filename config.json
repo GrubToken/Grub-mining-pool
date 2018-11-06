@@ -111,7 +111,7 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 5,
-        "host": "192.99.206.62",
+        "host": "http://192.99.206.62/GrubMine",
         "port": 8117,
         "blocks": 30,
         "payments": 30,
