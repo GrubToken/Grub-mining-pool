@@ -1,8 +1,8 @@
 {
-    "coin": "turtlecoin",
-    "symbol": "TRTL",
+    "coin": "GrubMine",
+    "symbol": "GRUB",
     "coinUnits": 100,
-    "coinDifficultyTarget": 30,
+    "coinDifficultyTarget":45 ,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
   "poolServer": {
     "enabled": true,
     "clusterForks": "auto",
-    "poolAddress": "TRTLv3mnq2wS6GepH6nb628jEjFseeojACYToJ1BXaZNNEvLkzW327zTVCh7ncGtS2MU2usGNq9ygVwiCTTft9QkN3t5P2Xqv3f",
+    "poolAddress": "gRUBmw4SBkN8JDK6bTKeYiR2qkqJ8YFCe2tBir2xozfbZDeqcoByWCv4JgdvPsLpESQ9LXyb6YzejfEpqJJ5EfQH84Ugt6HXVc",
     "blockRefreshInterval": 1000,
     "minerTimeout": 3600,
     "ports": [
