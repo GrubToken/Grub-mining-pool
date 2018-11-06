@@ -1,4 +1,4 @@
-var api = 'http://poolhost.com:1117'
+var api = 'http://grubmine.cryptoplatform.ro/:1117'
 
 var api_blockexplorer = 'http://daemonhost.com:1118'
 
