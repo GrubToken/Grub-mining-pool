@@ -1,4 +1,4 @@
-var api = 'http://grubmine.cryptoplatform.ro/:1117'
+var api = 'http://grubmine.justminers.com/:1117'
 
 var api_blockexplorer = 'http://daemonhost.com:1118'
 
@@ -6,15 +6,15 @@ var poolHost = 'poolhost.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
-var email = 'support@poolhost.com'
+var email = 'grubtokendevs@gmail.com'
 
 var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
 var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
 
-var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
+var blockchainExplorer = 'http://grubtoken.tippyturtle.com/{symbol}/block/{id}'
 
-var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
+var transactionExplorer = 'http://grubtoken.tippyturtle.com/{symbol}/transaction/{id}'
 
 var themeCss = 'themes/default-theme.css'
 
