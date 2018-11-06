@@ -1,8 +1,8 @@
-var api = 'http://192.99.206.62/GrubMine:8117'
+var api = 'http://192.99.206.62:8117'
 
-var api_blockexplorer = 'http://daemonhost.com/:8499'
+var api_blockexplorer = 'http://grubtoken.tippyturtle.com/:8499'
 
-var poolHost = 'http://poolhost.com'
+var poolHost = '192.99.206.62'
 
 var irc = 'irc.freenode.net/#poolhost'
 
