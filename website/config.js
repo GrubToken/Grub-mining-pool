@@ -2,7 +2,7 @@ var api = 'http://grubmine.justminers.com/:1117'
 
 var api_blockexplorer = 'http://grubtoken.justminers.com/:1118'
 
-var poolHost = 'http://grubmine.justminers.com'
+var poolHost = 'http://poolhost.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
