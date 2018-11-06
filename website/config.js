@@ -2,13 +2,13 @@ var api = 'http://grubmine.justminers.com/:1117'
 
 var api_blockexplorer = 'http://grubtoken.justminers.com/:1118'
 
-var poolHost = 'poolhost.com'
+var poolHost = 'http://grubmine.justminers.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
 var email = 'grubtokendevs@gmail.com'
 
-var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
+var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD']
 
 var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
 
