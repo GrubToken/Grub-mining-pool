@@ -101,7 +101,7 @@
         "enabled": true,
         "interval": 30,
         "depth": 40,
-        "poolFee": 2,
+        "poolFee": 0.5
         "devDonation": 0.1,
         "coreDevDonation": 0.1,
         "extraFeaturesDevDonation":0.1
@@ -124,7 +124,7 @@
     },
 
     "wallet": {
-        "host": "192.99.206.48",
+        "host": "127.0.0.1
         "port": 8070,
         "password": "<5150>"
     },
