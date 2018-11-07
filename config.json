@@ -43,7 +43,7 @@
         "difficulty": 10000,
         "desc": "Hidden port",
         "hidden": true
-      }
+      },
     ],
     "varDiff": {
       "minDiff": 100,
